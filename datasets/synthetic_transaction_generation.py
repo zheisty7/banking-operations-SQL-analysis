@@ -1,3 +1,4 @@
+# This dataset is fully synthetic and generated for educational and portfolio purposes.
 import pandas as pd
 import numpy as np
 import random
