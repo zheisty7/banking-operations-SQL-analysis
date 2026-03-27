@@ -1,2 +1,2 @@
 # banking-operations-SQL-analysis
-A dataset of 1,000 synthetic banking transactions that I’m using to explore transaction patterns and support compliant banking operations with SQL. I’m also building Tableau dashboards to visualize trends, spot potential fraud, and better understand overall activity.
+Built a synthetic payment operations dataset to simulate real-world fintech workflows, including transactions, accounts, reconciliation, payment logs, and support cases. Used SQL to analyze payment activity, identify discrepancies, and evaluate operational efficiency, with Tableau for visualization. Leveraged AI tools to design and generate datasets tailored to specific requirements, enabling realistic modeling of payment systems and risk scenarios.
